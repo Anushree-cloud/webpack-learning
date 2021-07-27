@@ -1,4 +1,4 @@
-import toast from '..src/toast/toast'
+import toast from '.toast/toast'
 
 function addBtn () {
     let button = document.createElement('button')
